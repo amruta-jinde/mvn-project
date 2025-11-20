@@ -16,7 +16,7 @@
 	</style>
 
 	<body>
-		<h1>Registration form </h1>
+		<h1>student Registration form </h1>
 		<div class="ex">
 			<form action="registrationController" method="post">
 				<table style="with: 50%">
@@ -51,4 +51,5 @@
 
 
 	</html>
+
 
